@@ -1,8 +1,9 @@
 # archive-posts
 a repo saving some of the best old xilinx/vivado posts
 
-#the guide to virtual clocks and timing, by avrum
-https://forums.xilinx.com/t5/Timing-Analysis/How-to-constraint-Same-Edge-capture-edge-aligned-DDR-input/m-p/646009#M8411
+# the guide to virtual clocks and timing, by avrum
+
+link, now broken: https://forums.xilinx.com/t5/Timing-Analysis/How-to-constraint-Same-Edge-capture-edge-aligned-DDR-input/m-p/646009#M8411
 
 Avrum: OK...
 
@@ -117,7 +118,7 @@ Avrum
 
 
 
-#Constraining CDCs
+# Constraining CDCs
 ## (so that you don't have to use XPM cdcs, which are not synthisable for GHDL)
 
 Asker: or can I just tell Vivado that these 2 clocks are unrelated, so I don't need to specify the paths in detail?
